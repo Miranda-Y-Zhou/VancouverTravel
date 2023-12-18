@@ -43,10 +43,11 @@ UBER, bus, skytrain, foot
 ### Places
 
 * 渔人码头
-* shopping
+* Shopping
   * Richmond Center
   * Aberdeen Center
   * McArthurGlen Designer Outlet Vancouver
+<iframe src="https://www.google.com/maps/d/embed?mid=1Uf_n-6bD-DF3mV9DM6tnLdmgP5PJE7M&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
 
 &nbsp;
 
@@ -102,7 +103,7 @@ UBER, bus, skytrain, foot
   * Miku Waterfront: 200 Granville St #70, Vancouver, BC V6C 1S4
   * Ramen Danbo: (3 locations)
   * Maruhachi Ra-men (multiple locations)
-<iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F" width="600" height="450"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
 * Seafood:
   * The Sandbar Seafood Restaurant: 1535 Johnston Street, Creekhouse #102, 1535 Johnston St #35, Vancouver, BC V6H 3R9
 * Korean:
