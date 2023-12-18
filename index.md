@@ -26,13 +26,16 @@ UBER, bus, skytrain, foot
 * Japanese:
   * Kun's Omakase Bar: [3500 Moncton St #150, Richmond, BC V7E 3A2](https://maps.app.goo.gl/ytmPZwVaFHMDjRu79)
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2610.982865875204!2d-123.18733922365203!3d49.12496057136954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485e17b4ab74667%3A0x3ff3317fbd3d1d27!2sKun&#39;s%20Omakase%20Bar!5e0!3m2!1sen!2sca!4v1702872602037!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  * Maruhachi Ra-men (multiple locations)
-<iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F" width="600" height="450"></iframe>
+  * Maruhachi Ra-men: [2780 No. 3 Rd, Richmond, BC V6X 2B3](https://maps.app.goo.gl/ywGNd3KBWZ6RdyiM8)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2607.3909307412123!2d-123.13400491183496!3d49.1931430975837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548675ded68fda97%3A0x464ca3ad8851ea90!2sMaruhachi%20Ra-men%20Richmond!5e0!3m2!1sen!2sca!4v1702873243564!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * Korean:
-  * SURA Korean BBQ: 4151 Hazelbridge Way #1830, Richmond, BC V6X 4J7
+  * SURA Korean BBQ: [4151 Hazelbridge Way #1830, Richmond, BC V6X 4J7](https://maps.app.goo.gl/7UxcHsgA7X2QgCzQ8)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83453.04646946586!2d-123.28613750273436!3d49.183337999999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486752610cae919%3A0x7dab9a15c66c8429!2sSURA%20Korean%20BBQ!5e0!3m2!1sen!2sca!4v1702873026637!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * Chinese:
-  * 耕食记: 1211-8338 Capstan Way, Richmond, BC V6X 4B5
-  * 木屋炭烤：8171 Alexandra Rd #105, Richmond, BC V6X 3W5
+  * 耕食记: [1211-8338 Capstan Way, Richmond, BC V6X 4B5](https://maps.app.goo.gl/5G7eiYp6jyHkLVpT7)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2607.702550543456!2d-123.1344032236481!3d49.187230671378636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548675273f14dfcf%3A0xfb11f7c3c472bb02!2sGeng%20Shi%20Ji!5e0!3m2!1sen!2sca!4v1702873085246!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  * 木屋炭烤：[8171 Alexandra Rd #105, Richmond, BC V6X 3W5](https://maps.app.goo.gl/tzm28pK8yisfUc9q6)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2608.1352200116526!2d-123.13614152364866!3d49.17902067137749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486752e4b25b8a5%3A0x3131731315c97bb6!2sHappy%20Tree%20House%20BBQ%20Restaurant!5e0!3m2!1sen!2sca!4v1702873108490!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Places
 
@@ -96,6 +99,7 @@ UBER, bus, skytrain, foot
   * Miku Waterfront: 200 Granville St #70, Vancouver, BC V6C 1S4
   * Ramen Danbo: (3 locations)
   * Maruhachi Ra-men (multiple locations)
+<iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F" width="600" height="450"></iframe>
 * Seafood:
   * The Sandbar Seafood Restaurant: 1535 Johnston Street, Creekhouse #102, 1535 Johnston St #35, Vancouver, BC V6H 3R9
 * Korean:
