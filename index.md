@@ -1,4 +1,4 @@
-# Vancouver Travel
+# Metro Vancouver Travel
 **Miranda Zhou**
 * Email: myzhou@ucsd.edu
 * Github: [Miranda-Y-Zhou](https://github.com/Miranda-Y-Zhou)
@@ -7,6 +7,10 @@
 ---
 
 ## Richmond
+
+### Transportation
+
+UBER, bus, skytrain, foot
 
 ### Food
 
@@ -36,6 +40,10 @@
 
 ## Victoria
 
+### Transportation
+
+bus, skytrain
+
 ### Food
 
 * II Terrazo: 555 Johnson St, Victoria, BC V8W 1M2
@@ -60,6 +68,10 @@
 &nbsp;
 
 ## Vancouver
+
+### Transportation
+
+UBER, bus, skytrain, foot
 
 ### Food
 
