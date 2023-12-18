@@ -63,5 +63,6 @@ UBER, bus, skytrain, foot
 * Capilano Suspension Bridge Park
 * UBC???
 * Vancouver Christmas Market
+<iframe src="https://www.google.com/maps/d/embed?mid=1KH8eq3cI7XqDGuEktowNHi6TD7Ak-sM&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
 
 &nbsp;
