@@ -1,5 +1,13 @@
 # Richmond
 
+[Miranda Zhou](https://github.com/Miranda-Y-Zhou)
+
+Date: 12/17/2023
+
+Back to [index](https://miranda-y-zhou.github.io/VancouverTravel/)
+
+---
+
 ## Transportation
 
 UBER, bus, skytrain, foot
