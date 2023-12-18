@@ -2,7 +2,7 @@
 **Miranda Zhou**
 * Email: myzhou@ucsd.edu
 * Github: [Miranda-Y-Zhou](https://github.com/Miranda-Y-Zhou)
-* Github repository: [cse15l-lab-reports](https://github.com/Miranda-Y-Zhou/VancouverTravel)
+* Github repository: [VancouverTravel](https://github.com/Miranda-Y-Zhou/VancouverTravel)
 
 ---
 
