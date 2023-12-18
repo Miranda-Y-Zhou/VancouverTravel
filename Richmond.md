@@ -39,6 +39,6 @@ UBER, bus, skytrain, foot
   * Richmond Center
   * Aberdeen Center
   * McArthurGlen Designer Outlet Vancouver
-<iframe src="https://www.google.com/maps/d/embed?mid=1Uf_n-6bD-DF3mV9DM6tnLdmgP5PJE7M&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Uf_n-6bD-DF3mV9DM6tnLdmgP5PJE7M&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
 
 &nbsp;
