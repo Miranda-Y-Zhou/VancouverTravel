@@ -45,10 +45,14 @@ UBER, bus, skytrain, foot
 <iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
 
 ### Seafood:
- * The Sandbar Seafood Restaurant: 1535 Johnston Street, Creekhouse #102, 1535 Johnston St #35, Vancouver, BC V6H 3R9
-Korean:
+ * The Sandbar Seafood Restaurant: [1535 Johnston Street, Creekhouse #102, 1535 Johnston St #35, Vancouver, BC V6H 3R9](https://maps.app.goo.gl/qq8xD5Qs6Ga1EQ7x9)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.2573048641766!2d-123.1367228236431!3d49.27152147139115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673ce6f66a28f%3A0xa5cbd4e4ea341af2!2sThe%20Sandbar%20Seafood%20Restaurant!5e0!3m2!1sen!2sca!4v1702875821895!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Korean:
  * Sooda Korean BBQ: (2 locations)
- * Kook Korean BBQ Restaurant: 2800 E 1st Ave #211A, Vancouver, BC V5M 4N9
+<iframe src="https://www.google.com/maps/d/embed?mid=1hARBeyF6rjDt23SNnEpUyVRokNBdoR8&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
+ * Kook Korean BBQ Restaurant: [2800 E 1st Ave #211A, Vancouver, BC V5M 4N9](https://maps.app.goo.gl/iWEKi59ufzqDW5187)
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d67163.16833737954!2d-123.11732621288724!3d49.26277485760453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548671a40b0ac7cb%3A0x9f0eebae70f6f08c!2sKook%20Korean%20BBQ%20Restaurant!5e0!3m2!1sen!2sca!4v1702875990042!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Places
 
