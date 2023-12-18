@@ -36,4 +36,6 @@ bus, skytrain, ferries
 * Mile 0
 * Sidney 海边小镇
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1sslItZRqG2Fi61_eb9GWEAj-kZ_vd7U&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
 &nbsp;
