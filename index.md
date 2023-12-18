@@ -21,10 +21,13 @@ UBER, bus, skytrain, foot
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2607.9381907677744!2d-123.1385857236485!3d49.182759471377985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867528b9655555%3A0x638c789f074d5763!2sThe%20Deluxe%20Chinese%20Restaurant!5e0!3m2!1sen!2sca!4v1702872064269!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   * 鲍粤轩：[110-8351 Alexandra Rd, Richmond, BC V6X 1C3](https://maps.app.goo.gl/vEoDjtsnCpyDG7nk9)
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2608.1581009912975!2d-123.1339797236487!3d49.178586471377336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486752e5b538b25%3A0x7d50407dea89205b!2sYue%20Restaurant!5e0!3m2!1sen!2sca!4v1702871963200!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  * 麒麟： 7900 Westminster Hwy, Richmond, BC V6X 1A5
+  * 麒麟： [7900 Westminster Hwy, Richmond, BC V6X 1A5](https://maps.app.goo.gl/U8t8seGwoMaQQze89)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166950.87161554262!2d-123.35564178007745!3d49.170060379085385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867534a9e116c1%3A0x73b53554bbc907d9!2sKirin%20Seafood%20Restaurant%20(Richmond)!5e0!3m2!1sen!2sca!4v1702872567807!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * Japanese:
-  * Kun's Omakase Bar: 3500 Moncton St #150, Richmond, BC V7E 3A2
+  * Kun's Omakase Bar: [3500 Moncton St #150, Richmond, BC V7E 3A2](https://maps.app.goo.gl/ytmPZwVaFHMDjRu79)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2610.982865875204!2d-123.18733922365203!3d49.12496057136954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485e17b4ab74667%3A0x3ff3317fbd3d1d27!2sKun&#39;s%20Omakase%20Bar!5e0!3m2!1sen!2sca!4v1702872602037!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   * Maruhachi Ra-men (multiple locations)
+<iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F" width="600" height="450"></iframe>
 * Korean:
   * SURA Korean BBQ: 4151 Hazelbridge Way #1830, Richmond, BC V6X 4J7
 * Chinese:
