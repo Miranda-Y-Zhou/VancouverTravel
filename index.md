@@ -15,7 +15,8 @@ UBER, bus, skytrain, foot
 ### Food
 
 * 早茶/点心：
-  * 鸿星：[8181 Cambie Rd. #2200, Richmond, BC V6X 3X9](<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38521.37107390529!2d-123.16894249208119!3d49.193819176326464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486752648b24ff1%3A0xce28a867b948ebed!2sRed%20Star%20Seafood%20Restaurant!5e0!3m2!1sen!2sca!4v1702871806784!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>)
+  * 鸿星：[8181 Cambie Rd. #2200, Richmond, BC V6X 3X9](https://maps.app.goo.gl/rnKotEAgysGpehP3A)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38521.37107390529!2d-123.16894249208119!3d49.193819176326464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486752648b24ff1%3A0xce28a867b948ebed!2sRed%20Star%20Seafood%20Restaurant!5e0!3m2!1sen!2sca!4v1702871806784!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   * 凯悦：4260 No. 3 Rd #120, Richmond, BC V6X 2C2
   * 鲍粤轩：110-8351 Alexandra Rd, Richmond, BC V6X 1C3
   * 麒麟： 7900 Westminster Hwy, Richmond, BC V6X 1A5
