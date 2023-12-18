@@ -29,13 +29,18 @@ UBER, bus, skytrain, foot
  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18046.12600308213!2d-123.1184009485163!3d49.2648958332294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673c325d41753%3A0xba8ff4045c5f88ea!2sDynasty%20Seafood%20Restaurant!5e0!3m2!1sen!2sca!4v1702875355626!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Fine Dining:
- * Elisa: 1109 Hamilton St, Vancouver, BC V6B 5P6
- * Glowbal: 590 W Georgia St, Vancouver, BC V6E 1A3
- * Black and Blue: 1032 Alberni St 3rd floor, Vancouver, BC V6E 1A3
+ * Elisa: [1109 Hamilton St, Vancouver, BC V6B 5P6](https://maps.app.goo.gl/1rp8v31CTAtJvmgL8)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2603.022848433546!2d-123.12398832364289!3d49.27596427139186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867330f1c2c185%3A0x9434194f2a56c53e!2sElisa!5e0!3m2!1sen!2sca!4v1702875409828!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ * Glowbal: [590 W Georgia St, Vancouver, BC V6E 1A3](https://maps.app.goo.gl/KaKar1k8nbE8861WA)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10412.09149639907!2d-123.13171313049087!3d49.27596378504955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717ee11eced7%3A0x16340f11e1e0912!2sGlowbal!5e0!3m2!1sen!2sca!4v1702875451835!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ * Black and Blue: [1032 Alberni St 3rd floor, Vancouver, BC V6E 1A3](https://maps.app.goo.gl/PoFJS8B7bbKMT47E7)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.5704407119656!2d-123.12541512364238!3d49.28453627139323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867181b4fd5abb%3A0x3b74ea8270b9fcb1!2sBlack%2BBlue!5e0!3m2!1sen!2sca!4v1702875478583!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Japanese:
- * Miku Waterfront: 200 Granville St #70, Vancouver, BC V6C 1S4
+ * Miku Waterfront: [200 Granville St #70, Vancouver, BC V6C 1S4](https://maps.app.goo.gl/A8VDgWHMzSQ1vtbF7)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.4394574861244!2d-123.11558562364218!3d49.287017871393566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54867183bbb82b97%3A0xc4977021fe4d4a91!2sMiku%20Vancouver!5e0!3m2!1sen!2sca!4v1702875534883!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
  * Ramen Danbo: (3 locations)
+<iframe src="https://www.google.com/maps/d/embed?mid=1wmcaH09neChcGfBe4ejTQ6BNfFNsEKI&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
  * Maruhachi Ra-men (multiple locations)
 <iframe src="https://www.google.com/maps/d/embed?mid=15U3PiAXIJXapMfH3U0MiYW-S_5ygNxc&ehbc=2E312F&noprof=1" width="600" height="450"></iframe>
 
